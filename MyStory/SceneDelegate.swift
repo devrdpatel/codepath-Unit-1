@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  IntroduceStudent
+//  MyStory
 //
-//  Created by Dev Patel on 1/13/23.
+//  Created by Dev Patel on 1/20/23.
 //
 
 import UIKit
