@@ -34,7 +34,8 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+For me personally, the code and logic was quite simple to follow but setting up the auto layout was quite frustrating. However, after setting up the auto
+layout for this app, I feel much more confident with using autolayout. 
 
 ## License
 
