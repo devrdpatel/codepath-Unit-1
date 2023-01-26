@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/CQvHnko.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/devrdpatel/codepath-Unit-1/blob/main/MyStory.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![](https://github.com/devrdpatel/codepath-Unit-1/blob/main/MyStory.gif)
 
 https://i.imgur.com/Io2OiRE.mp4
