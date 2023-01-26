@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gifhttps://imgur.com/a/2kkBa4B.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![](https://github.com/Your_Repository_Name/MyStory.gif)
+![](https://github.com/codepath-Unit-1/MyStory.gif)
 
 ## Notes
 
