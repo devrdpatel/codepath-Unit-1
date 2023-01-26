@@ -33,6 +33,10 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gifhttps://imgur.com/a/2kkBa4B.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![](https://github.com/devrdpatel/codepath-Unit-1/blob/main/MyStory.gif)
 
+https://i.imgur.com/Io2OiRE.mp4
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/O96sB4D" data-context="false" ><a href="//imgur.com/a/O96sB4D"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ## Notes
 
 Describe any challenges encountered while building the app.
